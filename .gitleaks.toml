@@ -1,0 +1,374 @@
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/design-system/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/design-system/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/design-system/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/design-system/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/design-system/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/design-system/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/design-system/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/design-system/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/design-system/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/design-system/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/mongodb/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/mongodb/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/mongodb/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/mongodb/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/mongodb/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/mongodb/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/mongodb/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/mongodb/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/mongodb/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/mongodb/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/spring-boot/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/spring-boot/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/spring-boot/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/spring-boot/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/graphql/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/graphql/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/graphql/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/graphql/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/react-native/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/react-native/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/software-design-architecture/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/software-design-architecture/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/linux/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/linux/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/kubernetes/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/kubernetes/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/kubernetes/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/kubernetes/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/aws/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/aws/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/cpp/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/cpp/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/java/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/java/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/aspnet-core/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/aspnet-core/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: jwt in src/data/guides/golang-rest-api.md"
+rules = ["jwt"]
+paths = ["src/data/guides/golang-rest-api.md"]
+
+[[allowlist]]
+description = "False positive: hashicorp-tf-password in src/data/guides/golang-rest-api.md"
+rules = ["hashicorp-tf-password"]
+paths = ["src/data/guides/golang-rest-api.md"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/system-design/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/system-design/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/system-design/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/system-design/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/system-design/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/system-design/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: hashicorp-tf-password in src/data/roadmaps/php/content/mysqli@YLuo0oZJzTCoiZoOSG57z.md"
+rules = ["hashicorp-tf-password"]
+paths = ["src/data/roadmaps/php/content/mysqli@YLuo0oZJzTCoiZoOSG57z.md"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/sql/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/sql/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/sql/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/sql/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: hashicorp-tf-password in src/data/projects/image-processing-service.md"
+rules = ["hashicorp-tf-password"]
+paths = ["src/data/projects/image-processing-service.md"]
+
+[[allowlist]]
+description = "False positive: hashicorp-tf-password in src/data/projects/todo-list-api.md"
+rules = ["hashicorp-tf-password"]
+paths = ["src/data/projects/todo-list-api.md"]
+
+[[allowlist]]
+description = "False positive: hashicorp-tf-password in src/data/projects/todo-list-api.md"
+rules = ["hashicorp-tf-password"]
+paths = ["src/data/projects/todo-list-api.md"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/projects/todo-list-api.md"
+rules = ["generic-api-key"]
+paths = ["src/data/projects/todo-list-api.md"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/projects/todo-list-api.md"
+rules = ["generic-api-key"]
+paths = ["src/data/projects/todo-list-api.md"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/typescript/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/typescript/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/typescript/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/typescript/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/nodejs/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/nodejs/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/nodejs/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/nodejs/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/javascript/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/javascript/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/javascript/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/javascript/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/vue/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/vue/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/react/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/react/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/technical-writer/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/technical-writer/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/technical-writer/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/technical-writer/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/server-side-game-developer/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/server-side-game-developer/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/game-developer/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/game-developer/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/game-developer/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/game-developer/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/game-developer/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/game-developer/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/ux-design/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/ux-design/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/ux-design/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/ux-design/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/software-architect/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/software-architect/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/cyber-security/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/cyber-security/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/cyber-security/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/cyber-security/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/cyber-security/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/cyber-security/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/cyber-security/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/cyber-security/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/cyber-security/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/cyber-security/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/qa/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/qa/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/qa/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/qa/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/qa/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/qa/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/blockchain/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/blockchain/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/blockchain/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/blockchain/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/full-stack/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/full-stack/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/full-stack/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/full-stack/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/data-analyst/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/data-analyst/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/devops/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/devops/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/backend/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/backend/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/backend/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/backend/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/backend/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/backend/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/backend/migration-mapping.json"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/backend/migration-mapping.json"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/data/roadmaps/postgresql-dba/content/107-postgresql-infrastructure-skills/105-kubernetes-deployment/100-simple-stateful-setup.md"
+rules = ["generic-api-key"]
+paths = ["src/data/roadmaps/postgresql-dba/content/107-postgresql-infrastructure-skills/105-kubernetes-deployment/100-simple-stateful-setup.md"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/components/Captcha/CaptchaScripts.astro"
+rules = ["generic-api-key"]
+paths = ["src/components/Captcha/CaptchaScripts.astro"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/components/Captcha/captcha.js"
+rules = ["generic-api-key"]
+paths = ["src/components/Captcha/captcha.js"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in components/helmet/index.js"
+rules = ["generic-api-key"]
+paths = ["components/helmet/index.js"]
