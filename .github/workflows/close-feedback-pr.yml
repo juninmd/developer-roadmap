@@ -1,8 +1,6 @@
 name: Close PRs with Feedback
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *'
 jobs:
   close-pr:
     runs-on: ubuntu-latest
